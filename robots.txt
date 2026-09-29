@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://web.jsk05.cn/sitemap.xml
